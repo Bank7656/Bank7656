@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Bank7656's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bank7656)](https://github.com/Bank7656/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bank7656&layout=donut-vertical)](https://github.com/Bank7656/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bank7656&layout=compact)
