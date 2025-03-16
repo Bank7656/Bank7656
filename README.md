@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/thacharo?1337Badge=off&UM6P=off" alt="thacharo's 42 stats" /></a>
 [![Bank7656's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bank7656&theme=dracula)](https://github.com/Bank7656/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bank7656&layout=compact&theme=dracula)
 
