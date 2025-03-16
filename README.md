@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Bank7656's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bank7656&theme=dracula)](https://github.com/Bank7656/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bank7656&layout=compact&theme=dracula)
 
--- Icons
+<!-- Icons --> 
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
